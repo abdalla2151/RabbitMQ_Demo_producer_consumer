@@ -1,0 +1,5 @@
+package rabbitMqDemo.example.rabbitMqDemo.service;
+
+public class RabbitMQService {
+
+}

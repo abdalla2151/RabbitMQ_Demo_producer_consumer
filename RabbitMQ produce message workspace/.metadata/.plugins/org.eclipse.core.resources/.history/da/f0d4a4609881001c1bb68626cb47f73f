@@ -1,0 +1,5 @@
+package rabbitMqDemo.example.rabbitMqDemo.config;
+
+public class RabbitMQConfig {
+
+}

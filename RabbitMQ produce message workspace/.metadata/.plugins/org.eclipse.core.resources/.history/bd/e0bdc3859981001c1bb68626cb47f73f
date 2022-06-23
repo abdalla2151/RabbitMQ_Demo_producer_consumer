@@ -1,0 +1,10 @@
+package rabbitMqDemo.example.rabbitMqDemo.service;
+
+public class RabbitMQService implements IRabbitMQService{
+	
+	
+	public void send(String message);
+	
+	
+
+}

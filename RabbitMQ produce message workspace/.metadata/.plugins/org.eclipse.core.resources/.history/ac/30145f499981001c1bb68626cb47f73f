@@ -1,0 +1,5 @@
+package rabbitMqDemo.example.rabbitMqDemo.controller;
+
+public class RabbitMQWebController {
+
+}
